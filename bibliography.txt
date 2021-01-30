@@ -1,0 +1,6 @@
+This implementation of the SOM is based on the following bibliography:
+
+- Ghahramani Z. (2003). Unsupervised learning. In Summer School on Machine Learning (pp. 72-112). Springer, Berlin, Heidelberg.
+- Kohonen, T. (2012). Self-organization and associative memory, 3rd edition (pp. 119-155). Springer Science & Business Media.
+- Fernández-Troncoso, J. (2020). ClasSOMfier: A neural network for cluster analysis and detection of lattice defects. arXiv e-prints, arXiv-2010.
+- Matsushita, H., & Nishio, Y. Batch-Learning Self-Organizing Map with Weighted Connections avoiding false-neighbor defects. The 2010 International Joint Conference on Neural Networks (IJCNN).
